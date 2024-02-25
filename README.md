@@ -1,0 +1,1 @@
+This is a web scraper that will get products from three different e-commerce stores. For now, it will only scrape one page but this can easily be modified. This can be a very helpful tool for anyone who wants to do product research for dropshipping. 
